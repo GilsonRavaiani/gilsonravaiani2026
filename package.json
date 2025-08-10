@@ -1,0 +1,23 @@
+{
+    "name": "meu-site",
+    "version": "1.0.0",
+    "description": "Meu site no Docker",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.21.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GilsonRavaiani/gilsonravaiani2026.git"
+    },
+    "keywords": [],
+    "bugs": {
+        "url": "https://github.com/GilsonRavaiani/gilsonravaiani2026/issues"
+    },
+    "homepage": "https://github.com/GilsonRavaiani/gilsonravaiani2026#readme"
+}
