@@ -61,3 +61,5 @@ Vendia Chup-Chup de kisuco e com dinheiro comecei a fazer com leite e frutas...
 E por ai segue até hoje me aperfeiçoando.
 
 Testando GitHub Action com Docker
+
+Testando Azure Devops
