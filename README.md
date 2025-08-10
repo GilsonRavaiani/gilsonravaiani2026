@@ -62,4 +62,4 @@ E por ai segue até hoje me aperfeiçoando.
 
 Testando GitHub Action com Docker
 
-Testando Azure Devops
+Testando Azure Devops.
