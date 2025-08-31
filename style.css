@@ -7,6 +7,35 @@
   --fonte-principal: 'Maven Pro', sans-serif;
 }
 
+/* Add your existing styles here */
+
+.audio-container {
+    text-align: center;
+    margin-top: 0.1cm;
+}
+
+.video-container {
+    text-align: left;
+    margin-top: 1cm;
+}
+
+.video-custom {
+    width: 33%;
+    height: auto;
+    border-radius: 15px;
+}
+
+#links-ladoalado {
+    display: flex;
+    justify-content: center;
+    gap: 0.01cm;
+    margin-top: 1cm;
+}
+
+footer {
+    margin-top: 1cm;
+}
+
 * {
   font-family: var(--fonte-principal);
   margin: 0;
