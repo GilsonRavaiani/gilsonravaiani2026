@@ -4,7 +4,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Servir arquivos da pasta 'public'
-app.use(express.static(path.join(__dirname, 'public')));
+//  app.use(express.static(path.join(__dirname, 'public')));
 
 // Rota principal
 app.get('/', (req, res) => {
