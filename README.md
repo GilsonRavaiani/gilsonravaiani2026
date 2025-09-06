@@ -63,3 +63,13 @@ E por ai segue até hoje me aperfeiçoando.
 Testando GitHub Action com Docker
 
 Testando Azure Devops.
+
+
+docker build -t gilsonravaiani2026 .
+docker tag gilsonravaiani2026 gilsonravaiani2026.azurecr.io/gilsonravaiani2026:latest
+docker push gilsonravaiani2026.azurecr.io/gilsonravaiani2026:latest
+
+
+
+az acr login --name gilsonravaiani2026
+docker push gilsonravaiani2026.azurecr.io/gilsonravaiani2026:latest
