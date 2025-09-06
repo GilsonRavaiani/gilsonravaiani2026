@@ -73,3 +73,5 @@ docker push gilsonravaiani2026.azurecr.io/gilsonravaiani2026:latest
 
 az acr login --name gilsonravaiani2026
 docker push gilsonravaiani2026.azurecr.io/gilsonravaiani2026:latest
+
+,,,
